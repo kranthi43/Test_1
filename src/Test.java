@@ -20,6 +20,7 @@ public class Test {
 	     System.out.println(Paths.get("").toAbsolutePath());
 	     
 	     System.out.println(MessageFormat.format("GGGGGG{0,number}", port));
+		 System.out.println(MessageFormat.format("GGGGGG{0,number}", port));
 	     
 	     CLASS_TYPE class_TYPE = CLASS_TYPE.BYE;
 	     switch (class_TYPE) {
