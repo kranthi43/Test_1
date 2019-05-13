@@ -14,7 +14,7 @@ public class Test {
 		}catch (Exception e) {
 			System.out.println("MM");
 		}*/
-		System.out.println(MessageFormat.format("GGGGGGnumbe r Kiran 1 3 1 Hi kkkk 2.34");
+		System.out.println(MessageFormat.format("GGGGGGnumbe r Kiran 1 3 1 Hi 2.44");
 		System.out.println(MessageFormat.format("GGGGGGnumbe r Kiran 1 3 1 Kiran");
 		System.out.println(MessageFormat.format("GGGGGGnumbe r Kiran 1 3 Kranthi");
 		 final String dir = System.getProperty("user.dir");
