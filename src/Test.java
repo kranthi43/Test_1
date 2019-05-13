@@ -14,7 +14,7 @@ public class Test {
 		}catch (Exception e) {
 			System.out.println("MM");
 		}*/
-		System.out.println(MessageFormat.format("GGGGGGnumbe r Kiran 1");
+		System.out.println(MessageFormat.format("GGGGGGnumbe r Kiran 1 2");
 		 final String dir = System.getProperty("user.dir");
 	        System.out.println("current dir = " + dir);
 	     System.out.println(Paths.get("").toAbsolutePath());
