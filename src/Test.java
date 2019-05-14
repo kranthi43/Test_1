@@ -12,7 +12,7 @@ public class Test {
 		/*try{
 		Assert.assertEquals("KK", true, false);
 		}catch (Exception e) {
-			HHHHH Kranthi
+			HHHHH Kranthi Kiran
 			System.out.println("MM");
 		}*/
 		System.out.println(MessageFormat.format("GGGGGGnumbe r Kiran 1 3 1 Hi 2.44");
